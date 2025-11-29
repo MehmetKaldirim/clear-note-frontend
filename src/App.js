@@ -21,6 +21,7 @@ import ResetPassword from "./components/Auth/ResetPassword";
 import Footer from "./components/Footer/Footer";
 
 const App = () => {
+  //bu ikinci commit
   return (
     <Router>
       <Navbar />
